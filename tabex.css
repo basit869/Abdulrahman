@@ -1,0 +1,17 @@
+table,th,td{
+    border-style:inset;
+    border: 1px solid #d6c4c4;
+    border-collapse: collapse;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    margin-left: 300px;
+    
+    padding: 10px;
+}
+th{
+    color: gray;
+}
+
+
